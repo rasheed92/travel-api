@@ -1,13 +1,14 @@
-# travel api
+# Travel API
 
 #### Get Data
 
 Link:[http://127.0.0.1:8000/](http://127.0.0.1:8000/?from=iq&to=ae)
 <br><br>
 Method: **GET**	
+<br>
 params: from = country ,to=country 
 <br>
-example :
+**example :**	
 ```
 http://127.0.0.1:8000/?from=us&to=uk
 ```
