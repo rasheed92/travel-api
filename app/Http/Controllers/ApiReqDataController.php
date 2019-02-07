@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use GuzzleHttp\Client;
-class ApiRequestController extends Controller
+class ApiReqDataController extends Controller
 {
     public function getApiData(Request $Request)
     {
